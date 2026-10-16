@@ -25,6 +25,9 @@ h1 {
 
 /* TASK 4: Make the tagline italic.
    It is the paragraph with class="tagline". */
+   .tagline { 
+      font-style: italic; 
+   }
 
 
 
