@@ -44,12 +44,18 @@ h1 {
 
 /* TASK 6: The page content is inside a div with class="wrapper".
    Give it a width of 600px and centre it in the browser window. */
+.wrapper { width: 600px; 
+   margin: 0 auto; 
+}
+
 
 
 
 /* TASK 7: Make links change colour when the mouse is over them.
    Use any colour you like. */
-
+ a:hover { 
+   color: #2a6049; 
+}
 
 
 /* TASK 8: Add a comment of your own above one of your rules,
