@@ -8,6 +8,11 @@
    and the font to a sans-serif stack such as:
    Helvetica, Arial, sans-serif
    Everything on the page should pick these up. */
+   body {
+      color: #333333;
+      font-family: Helvetica, Arial, sans-serif; 
+
+   }
 
 
 
