@@ -35,7 +35,11 @@ h1 {
    It is the paragraph with id="notice".
    Give it a background colour of #fdf3d0, 15px of space inside it,
    and a 1px solid #e0c35a border. */
-
+#notice { 
+   background-color: #fdf3d0; 
+   padding: 15px; 
+   border: 1px solid #e0c35a; 
+}
 
 
 /* TASK 6: The page content is inside a div with class="wrapper".
